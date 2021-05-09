@@ -1,0 +1,18 @@
+
+.form-style{
+    margin-top:  40px;
+    width: 80% !important;
+}
+
+.search-bar{
+    border-color: #ff452b !important;
+
+}
+.pagination{
+    margin: auto !important;
+    width: 30% !important;
+}
+
+.Mui-selected{
+    background-color: #ff452b !important;
+}
