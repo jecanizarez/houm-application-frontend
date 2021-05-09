@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/houm-application-frontend/static/css/main.97713cd6.chunk.css",
+    "main.js": "/houm-application-frontend/static/js/main.6157b82f.chunk.js",
+    "main.js.map": "/houm-application-frontend/static/js/main.6157b82f.chunk.js.map",
+    "runtime-main.js": "/houm-application-frontend/static/js/runtime-main.bf1b59e6.js",
+    "runtime-main.js.map": "/houm-application-frontend/static/js/runtime-main.bf1b59e6.js.map",
+    "static/css/2.acd75131.chunk.css": "/houm-application-frontend/static/css/2.acd75131.chunk.css",
+    "static/js/2.43839464.chunk.js": "/houm-application-frontend/static/js/2.43839464.chunk.js",
+    "static/js/2.43839464.chunk.js.map": "/houm-application-frontend/static/js/2.43839464.chunk.js.map",
+    "static/js/3.ae8b0afc.chunk.js": "/houm-application-frontend/static/js/3.ae8b0afc.chunk.js",
+    "static/js/3.ae8b0afc.chunk.js.map": "/houm-application-frontend/static/js/3.ae8b0afc.chunk.js.map",
+    "index.html": "/houm-application-frontend/index.html",
+    "static/css/2.acd75131.chunk.css.map": "/houm-application-frontend/static/css/2.acd75131.chunk.css.map",
+    "static/css/main.97713cd6.chunk.css.map": "/houm-application-frontend/static/css/main.97713cd6.chunk.css.map",
+    "static/js/2.43839464.chunk.js.LICENSE.txt": "/houm-application-frontend/static/js/2.43839464.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf1b59e6.js",
+    "static/css/2.acd75131.chunk.css",
+    "static/js/2.43839464.chunk.js",
+    "static/css/main.97713cd6.chunk.css",
+    "static/js/main.6157b82f.chunk.js"
+  ]
+}
